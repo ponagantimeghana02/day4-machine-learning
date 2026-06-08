@@ -1,0 +1,28 @@
+DATA PREPROCESSING REPORT
+========================================
+
+1. Missing Values Detected:
+age           2
+salary        2
+experience    1
+dtype: int64
+
+2. Missing Values Filled Using Mean
+
+Updated Dataset:
+         age   salary  experience
+0  22.000000  25000.0    1.000000
+1  25.000000  30000.0    2.000000
+2  28.000000  43000.0    3.000000
+3  29.833333  45000.0    5.000000
+4  35.000000  50000.0    4.142857
+5  40.000000  70000.0   12.000000
+6  29.833333  38000.0    2.000000
+7  29.000000  43000.0    4.000000
+
+
+3. Data Validation Results:
+
+No invalid age values found.
+No invalid salary values found.
+No invalid experience values found.
