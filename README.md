@@ -1,2 +1,12 @@
 # day4-machine-learning
 Day4-Machine-Learning
+
+Task 1: ML Environment Setup
+
+Task 2: 
+Research on:
+Unsupervised Learning
+Reinforcement Learning
+Supervised Learning.
+
+
