@@ -16,3 +16,5 @@ Task 4 :Feature Engineering
 Task 5: Salary Prediction
 
 Task 6: Model Evaluation.
+
+Task 7: Employee Classifier.
