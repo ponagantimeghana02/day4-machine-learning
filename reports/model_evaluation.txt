@@ -1,0 +1,31 @@
+
+MODEL EVALUATION REPORT
+=======================
+
+Mean Absolute Error (MAE): 1064.81
+
+Mean Squared Error (MSE): 1620370.37
+
+R² Score: 0.9975
+
+Explanation:
+------------
+1. MAE (Mean Absolute Error)
+   - Measures the average prediction error.
+   - Lower MAE indicates better model performance.
+
+2. MSE (Mean Squared Error)
+   - Measures the average squared difference between
+     actual and predicted values.
+   - Lower MSE indicates fewer large prediction errors.
+
+3. R² Score
+   - Measures how well the model explains the variance
+     in the data.
+   - R² = 1 means perfect prediction.
+   - R² = 0 means the model explains none of the variance.
+
+Model Assessment:
+The R² score is very close to 1, indicating that the
+linear regression model fits the salary data extremely well.
+The low MAE and MSE values show that prediction errors are small.
